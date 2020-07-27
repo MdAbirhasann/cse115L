@@ -1,2 +1,2 @@
 # cse115L
-this is for practice purpose
+This is CSE115 lab class & Practise folder. Week 2 practise added.
